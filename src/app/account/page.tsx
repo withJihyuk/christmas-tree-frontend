@@ -1,6 +1,6 @@
 export default function Home() {
   return (
-    <main className="flex flex-col items-center space-y-9">
+    <main className="flex flex-col items-center p-10 space-y-9">
       <div className="pt-12">
         <section>
           <h1 className="text-3xl font-bold text-white">지혁</h1>
