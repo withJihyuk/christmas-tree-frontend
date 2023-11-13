@@ -3,9 +3,14 @@
 @tailwind utilities;
 
 :root {
-  --foreground-rgb: 0, 0, 0;
-  --background-start-rgb: 214, 219, 220;
-  --background-end-rgb: 255, 255, 255;
+  /* --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 43, 48, 65;
+  --background-end-rgb: 43, 48, 65; */
+  background-image: url("../../images/background.png");
+}
+
+.roll {
+  background-color: black;
 }
 
 @media (prefers-color-scheme: dark) {
