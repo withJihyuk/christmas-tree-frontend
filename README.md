@@ -1,3 +1,5 @@
+개발 속도 이슈로 인해 백엔드와 연동이 되어 있지 않습니다. 개발이 중단 되었습니다!
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
